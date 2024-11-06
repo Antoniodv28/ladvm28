@@ -5,7 +5,7 @@ Currently a software engineering student in his last semester, interest in new t
 * 🌍  I'm based in México
 * 🖥️  See my portfolio at [here](https://github.com/Antoniodv28)
 * ✉️  You can contact me at [luis_28an@hotmail.com]
-* 🧠  I'm learning Software Engineerig | JavaScript | HTML | Git/GitHub | Python | CSS | Node.js | MySQL | SQL | PostgreSQL | .NET | React | Reflex | SCRUM |
+* 🧠  I'm learning Software Engineering | JavaScript | HTML | Git/GitHub | Python | CSS | Node.js | MySQL | SQL | PostgreSQL | .NET | React | Reflex | SCRUM |
   
 ### Skills
 <p align="left">
